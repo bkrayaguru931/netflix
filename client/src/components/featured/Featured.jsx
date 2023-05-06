@@ -26,7 +26,7 @@ export default function Featured({ type }) {
         </div>
       )}
       <img
-        src="https://www.whats-on-netflix.com/wp-content/uploads/2023/02/the-witcher-netflix-february-2023-news-roundup-jpg.webp"
+        src="https://occ-0-2186-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVWS9pqT4D1VP8vlUp4tpjXcO0T2xb7QHYJAZgmwalMcwqgHKJNUEZdbgwOrydpkKgTrgA-hRPGQh5XYsNydSOMvYCsV1Vnm808M.jpg?r=93a"
         alt=""
       />
       <div className="info">
